@@ -1,0 +1,10 @@
+input {
+    min-width: 120px;
+    background-color: transparent;
+    color: #999999;
+    border: none;
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 5px 15px;
+    outline: none;
+}

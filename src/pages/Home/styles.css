@@ -1,0 +1,39 @@
+.content {
+  margin: 0 auto;
+  position: relative;
+
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 3rem;
+}
+
+.content h4 {
+  text-align: center;
+}
+
+.background {
+  height: 100vh;
+  position: absolute;
+  left: 0;
+}
+
+/*search*/
+
+.searchContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.searchContainer input {
+  margin-right: 0.5rem;
+  flex: 1;
+}
+
+.info {
+  width: 60%;
+  margin-right: 90px;
+  margin-top: 70px;
+}

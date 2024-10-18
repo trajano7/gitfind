@@ -1,0 +1,14 @@
+.repoList {
+  width: 100%;
+}
+
+.repoList h2 {
+  color: #ffffff;
+  margin: 0;
+  text-align: center;
+  margin: 2.5rem 0;
+}
+
+.repoList h4 {
+  text-align: center;
+}

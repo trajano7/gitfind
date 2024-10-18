@@ -1,0 +1,14 @@
+.repo {
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+.repo strong {
+  color: #539bf5;
+  margin: 0;
+}
+
+.repo p {
+  font-size: .75em;
+  margin: 1.5rem 0;
+}
